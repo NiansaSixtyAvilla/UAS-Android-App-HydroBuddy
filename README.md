@@ -18,4 +18,4 @@ Repository ini berisi:
 Email: niansa02@gmail.com
 
 ## Demo Video Aplikasi
-[![Demo Aplikasi HydroBuddy](https://youtu.be/BnVTJ9svh3U)]
+Youtube: https://youtu.be/BnVTJ9svh3U
