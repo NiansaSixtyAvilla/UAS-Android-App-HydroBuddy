@@ -1,0 +1,28 @@
+# Android Studio
+*.iml
+/.gradle/
+local.properties
+.idea/
+.DS_Store
+/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Output
+/app/release/
+*.apk
+*.ap_
+*.aab
+.signing/
+outputs/
+gradle-app.setting
+
+# Emulator Files
+*.avd/
+*.lock
+
+# System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

@@ -1,0 +1,3 @@
+HydroBuddy dirancang untuk membantu pengguna memantau dan mencatat konsumsi air minum harian secara praktis dan terstruktur.
+Pengguna dapat menambahkan jumlah air yang diminum melalui pilihan ukuran gelas (small, medium, dan large), melihat progres kebutuhan air harian dalam bentuk persentase, serta membatalkan pencatatan terakhir jika terjadi kesalahan input.
+Aplikasi ini juga menyediakan halaman statistik yang menampilkan total konsumsi air per hari, frekuensi minum, serta riwayat waktu pencatatan minum air. Dengan antarmuka yang sederhana dan informatif, aplikasi ini membantu pengguna membangun kebiasaan minum air yang lebih teratur dan mendukung pola hidup sehat

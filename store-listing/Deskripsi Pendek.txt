@@ -1,0 +1,1 @@
+HydroBuddy adalah aplikasi pencatat dan pengingat minum air harian dengan tampilan sederhana dan statistik konsumsi air.
